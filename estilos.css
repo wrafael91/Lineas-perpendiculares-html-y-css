@@ -11,7 +11,7 @@
     height: 100vh;
   }
   
-  .item {
-    border: 5px solid #000;
-    font-size: 2rem;
-  }
+.item {
+  border: 5px solid #000;
+  font-size: 2rem;
+}
